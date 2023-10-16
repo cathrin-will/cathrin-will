@@ -16,6 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://codepen.io/cathrinwill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cathrinwill" height="30" width="40" /></a>
 <a href="https://dev.to/cathrinwill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cathrinwill" height="30" width="20" /></a>
 <a href="https://linkedin.com/in/cathrinwill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cathrinwill" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1136752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1136752" height="30" width="40" /></a>
