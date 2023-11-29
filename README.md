@@ -3,10 +3,6 @@
 <h2 align="center">Experienced, passionate Front-end developer </h2>
 
 
-- 🔭 I’m currently working on organising my online presence,  thank you https://rahuldkjain.github.io/gh-profile-readme-generator/ for making this part easier
-
-- 🌱 I’m currently learning flutter <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/>
-
 - 📫 You can reach me on **ann@cathrinwill.com* or *acwill@rawnet.com**
 
 <p align="left">Remember when websites used to have counters? This is why I'm keeping this:  <img src="https://komarev.com/ghpvc/?username=cathrin-will&label=Profile%20views&color=b01b5b&style=flat" alt="cathrin-will" /> </p>
