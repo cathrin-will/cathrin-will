@@ -5,6 +5,21 @@
 
 - 📫 You can reach me on **ann@cathrinwill.com* or *acwill@rawnet.com**
 
+<h2>Conferences</h2>
+I like to go out there and see other Developers in the wild, this is a list of where I've been:
+- Modern Frontends 2022
+- Jamstack London 2019
+- Render Conf 2018
+- Render Conf 2017
+- Render Conf 2016
+- jQuery Conference 2015
+- jQuery Conference 2014
+
+<h2>Courses/Certificates</h2>
+- <a href="https://www.sanity.io/learn/profile/g7sub0s2P"> Sanity courses </a>
+- <a href="https://www.linkedin.com/learning/certificates/701f64b31a9476f9db1b4e4a28165299b4b1628f22701339358fbedccf09d503"> LinkedIn Course: Tech Career Skills: Moving from Developer to Engineering Manager</a>
+- Web Development with Business BSc
+
 <p align="left">Remember when websites used to have counters? This is why I'm keeping this:  <img src="https://komarev.com/ghpvc/?username=cathrin-will&label=Profile%20views&color=b01b5b&style=flat" alt="cathrin-will" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cathrin-will" alt="cathrin-will"/></a> </p>
