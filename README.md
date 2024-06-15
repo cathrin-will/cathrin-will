@@ -1,9 +1,10 @@
 <h1 align="center"> Hello I'm Ann-Cathrin, but everyone calls me AC 👋 </h1>
 
 <h2 align="center">Experienced, passionate Front-end developer </h2>
+<p>I have a portfolio site: <a href="cathrinwill.com">cathrinwill.com</a>, as you might expect from a busy working dev my site is not much to look at because I will spend most of my time choosing a new tech stack, rewriting my intro and finally hours and hours choosing a new colour scheme.</p>
 
 
-📫 You can reach me on **ann@cathrinwill.com* or *acwill@rawnet.com**
+📫 You can reach me on <a href="mailto:ac.will.dev@gmail.com">ac.will.dev@gmail.com</a>
 
 <h2>Conferences</h2>
 I like to go out there and see other Developers in the wild, this is a list of some of the places I've been:
