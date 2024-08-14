@@ -1,6 +1,6 @@
 <h1 align="center"> Hello I'm Ann-Cathrin, but everyone calls me AC 👋 </h1>
 
-<h2 align="center">Experienced, passionate, Frontend web developer </h2>
+<h2 align="center">Experienced and passionate Frontend web developer </h2>
 <p>I have a portfolio site: <a href="https://acwill.dev">acwill.dev</a>, as you might expect from a busy working dev my site is not much to look at because I will spend most of my time choosing a new tech stack, rewriting my intro and finally hours and hours choosing a new colour scheme.</p>
 
 
